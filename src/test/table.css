@@ -1,0 +1,6 @@
+#myTable .ant-table-body {
+  position: relative;
+}
+.ant-table-body.ps, .ant-table-empty .ant-table-body.ps {
+  overflow: hidden!important;
+}
